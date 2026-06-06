@@ -1,0 +1,20 @@
+Bahasa pemrograman C merupakan salah satu bahasa pemrograman komputer. Dibuat pada tahun 1972 oleh Dennis Ritchie untuk Sistem Operasi Unix di Bell Telephone Laboratories. Sementara itu, C++ adalah bahasa pemrograman komputer yang dibuat oleh Bjarne Stroustrup yang merupakan perkembangan dari bahasa C itu sendiri.
+
+Buku Pemrograman C & C++ ini ditujukan untuk mahasiswa atau bagi siapa saja yang ingin memulai belajar bahasa pemrograman baik yang sudah memiliki backgorund IT maupun yang non-IT yang ingin mempelajari lebih dalam mengenai konsep dan fundamental dari Bahasa C dan C++.
+
+Buku ini banyak membahas teknis dari bahasa pemrograman C dan C++ dari mulai dasar sampai tingkat menengah seperti pengenalan tipe data, input dan output data, struct, percabangan, perulangan, function, array, string, manipulasi string, pointer, sampai operasi file.
+
+Buku ini juga dilengkapi dengan contoh program berdasarkan studi kasus yang menarik dan mudah untuk diterapkan, sehingga pembaca akan lebih mudah untuk memahami materi yang disampaikan. Etika pembaca bisa menguasai isi dari buku ini, maka ketika ingin migrasi atau belajar bahasa pemrograman lainnya pembaca akan dengan sangat mudah dan cepat bisa memahaminya.
+
+Informasi Buku
+Judul Buku : Pemrograman C dan C++
+Penerbit : Informatika
+Penulis : Adam Mukharil Bachtiar
+Tanggal Terbit : 22 Maret 2017
+Jumlah Halaman : 324 halaman
+Format Buku : Soft Cover
+Berat Buku : 340 gram
+Dimensi : 16 x 25 cm
+Teks Bahasa : Bahasa Indonesia
+ISBN : 9786026232250
+SKU : 207868288
