@@ -1,0 +1,1 @@
+/* untuk bagian ini mungkin agak aku stop karena lagi cari pekerjaan dan interview jadi agak bingung membagi waktunya */
